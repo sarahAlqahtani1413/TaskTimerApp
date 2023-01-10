@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "777111701408",
+    "project_id": "mydiary-42f7c",
+    "storage_bucket": "mydiary-42f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777111701408:android:ad91235f8999e0093806c5",
+        "android_client_info": {
+          "package_name": "com.example.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777111701408-82r0bm6pqa12teue6vsn07f6t0frls8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKrra7jGwvyo8Q0N8oWI7bW7ukH-r8gJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777111701408-82r0bm6pqa12teue6vsn07f6t0frls8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777111701408:android:0ce2e35f9f6d16793806c5",
+        "android_client_info": {
+          "package_name": "com.example.tasktimerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777111701408-82r0bm6pqa12teue6vsn07f6t0frls8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKrra7jGwvyo8Q0N8oWI7bW7ukH-r8gJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777111701408-82r0bm6pqa12teue6vsn07f6t0frls8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
